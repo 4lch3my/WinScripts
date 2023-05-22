@@ -1,3 +1,10 @@
+:: readme
+:: Super Simple List Chooser
+
+:: Super simple list chooser for Windows 7/10/11 with CMD. 
+:: Light, easy to use and simple to modify.
+:: Hook it up to AHK.exe for an even better experience ;)
+
 @echo off
 
 title List chooser
